@@ -25,7 +25,7 @@ export default function ContactPage() {
               <div>
                 <h4 className="text-xs uppercase tracking-widest font-bold mb-4">Contact Info</h4>
                 <p className="text-neutral-600">
-                  hello@studioarch.com<br />
+                  hello@besfact.com<br />
                   +41 44 123 45 67
                 </p>
               </div>

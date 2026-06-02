@@ -26,7 +26,7 @@ export default function Home() {
             </h1>
             <p className="text-white/80 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-light">
               We design spaces that inspire, endure, and harmonize with the environment.
-              Studio Arch is an award-winning practice dedicated to minimalism and innovation.
+              Besfact Architecture is an award-winning practice dedicated to minimalism and innovation.
             </p>
             <Link 
               href="/projects" 
@@ -51,7 +51,7 @@ export default function Home() {
               Simplicity is the ultimate sophistication.
             </h3>
             <p className="text-neutral-600 text-lg leading-relaxed mb-8">
-              Founded in 2015, Studio Arch has been at the forefront of contemporary architecture. 
+              Founded in 2015, Besfact Architecture has been at the forefront of contemporary architecture.
               Our approach is rooted in the belief that great design is a balance of form, function, and emotion.
               We strip away the unnecessary to reveal the essence of a space.
             </p>

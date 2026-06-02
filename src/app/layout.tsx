@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Studio Arch | Modern Architecture Portfolio",
+  title: "Besfact Architecture | Modern Architecture Portfolio",
   description: "A portfolio showcasing minimalist and sustainable architectural designs.",
 };
 
