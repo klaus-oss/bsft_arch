@@ -12,7 +12,7 @@ export default function AboutPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-20 items-start">
           <div className="space-y-8">
             <p className="text-2xl font-light leading-relaxed">
-              Studio Arch is an architectural practice based in Zurich, focused on creating spaces that are both meaningful and timeless.
+              Besfact Architecture is an architectural practice based in Zurich, focused on creating spaces that are both meaningful and timeless.
             </p>
             <p className="text-neutral-600 leading-relaxed">
               Founded in 2015 by Marcus Vane, our studio has grown into a collaborative environment where architects, designers, and thinkers come together to solve complex spatial challenges. We believe that architecture should be an extension of its environment, not a disruption.

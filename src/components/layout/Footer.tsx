@@ -1,11 +1,14 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export function Footer() {
   return (
     <footer className="bg-neutral-50 border-t py-12 px-6 md:px-12">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center">
         <div>
-          <h2 className="text-xl font-bold uppercase tracking-tighter mb-4">Studio Arch</h2>
+          <Link href="/" className="block mb-4">
+            <Image src="/logo.png" alt="Besfact Architecture" width={120} height={40} className="h-6 w-auto" />
+          </Link>
           <p className="text-neutral-500 max-w-xs text-sm">
             Crafting sustainable and innovative architectural solutions for a modern world.
           </p>
@@ -31,7 +34,7 @@ export function Footer() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto mt-12 pt-8 border-t border-neutral-100 flex justify-between items-center text-[10px] uppercase tracking-widest text-neutral-400">
-        <p>© 2024 Studio Arch. All Rights Reserved.</p>
+        <p>© 2024 Besfact Architecture. All Rights Reserved.</p>
         <p>Built with precision.</p>
       </div>
     </footer>
